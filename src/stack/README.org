@@ -1,0 +1,23 @@
+#+title: PINGGO
+#+author: aaron
+#+date: <2021-01-31 Sun 13:11>
+
+
+** a ping program
+
+** two version
+
+*** web
+
+*** exe
+
+go run main.go task.go
+\n
+\n
+
+*** use project to study
+
+*** potential and Extreme Programming
+
+xp
+
